@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Ansh-Upadhyay-s-workspace-rq4109.eu-central-1.xata.sh/db/ansh-database",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
