@@ -33,8 +33,7 @@ const SignIn = () => {
               ))}
             </figure>
             <p>
-            SnapCast makes screen recording easy. From quick walkthroughs to
-              full presentations, it&apos;s fast, smooth, and shareable in seconds
+            Your screen, your voice—shared in seconds. SnapCast makes it easy to show what matters
             </p>
             <article>
               <Image
@@ -45,8 +44,8 @@ const SignIn = () => {
                 className="rounded-full"
               />
               <div>
-                <h2>Jason Rivera</h2>
-                <p>Product Designer, NovaByte</p>
+                <h2>Ansh Upadhyay</h2>
+                <p>Data Science Enthusiast</p>
               </div>
             </article>
           </section>
