@@ -1,94 +1,81 @@
-<h1 align="center">👋 Hi, I'm Ansh</h1>
-
-<div align="center">
-
-<h1 align="center">Capto</h1>
-
+<!-- Logo -->
 <p align="center">
-Effortless Screen Recording & Instant Sharing.  
-Built with <strong>Next.js</strong>, <strong>Better Auth</strong>, and a whole lot of ❤️
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDEyMCAxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiIGZpbGw9IiMwMGE5ZSIgcng9IjIwIi8+CiAgPHRleHQgeD0iNjAiIHk9IjcwIiBmb250LXNpemU9IjM2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiPlo8L3RleHQ+Cjwvc3ZnPg==" alt="Logo" width="120"/>
 </p>
 
-<!-- Stylish Button -->
-<a href="https://screen-recording-and-sharing-app.onrender.com/">
-  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="View Demo"/>
-</a>
+<h1 align="center">🚀 My Project</h1>
 
-<br/>
-<br/>
-
-<a href="#-key-features"><strong>✨ Key Features</strong></a> ·
-<a href="#-tech-stack"><strong>🛠 Tech Stack</strong></a> ·
-<a href="#-getting-started"><strong>⚡ Getting Started</strong></a> ·
-<a href="#-contributing"><strong>🤝 Contributing</strong></a>
-
-</div>
+<p align="center">
+  A modern, high-performance project built with the latest technologies.
+</p>
 
 ---
 
-## 🚀 Key Features
-| Feature | Description |
-|---------|-------------|
-| 🎥 **Instant Screen Recording** | Record screen, window, or tab directly in your browser — no downloads required. |
-| 🔐 **Secure Authentication** | Google login & secure session handling via Better Auth. |
-| ☁️ **Cloud Video Uploads** | Fast uploads to Bunny CDN for reliable storage and streaming. |
-| 👁️ **Public & Private Videos** | Easily toggle visibility for each video. |
-| 🔍 **Dynamic Filtering & Search** | Find videos instantly with search & filters. |
-| 🖼️ **Auto-Generated Thumbnails** | Keep your video library looking great automatically. |
-| 📱 **Responsive Design** | Works perfectly on all devices. |
+## ✨ Tech Stack
+
+<style>
+  @keyframes shimmer {
+    0% { background-position: -500px 0; }
+    100% { background-position: 500px 0; }
+  }
+  .tech-table img {
+    border-radius: 8px;
+    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    background-size: 1000px 100%;
+    animation: shimmer 2s infinite linear;
+    padding: 4px;
+  }
+</style>
+
+<table class="tech-table" align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br>React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/logo.svg" width="50" height="50" alt="Drizzle ORM"/><br>Drizzle ORM
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/94701579?s=200&v=4" width="50" height="50" alt="Xata"/><br>Xata
+    </td>
+    <td align="center">
+      <img src="https://bunny.net/images/logo.svg" width="50" height="50" alt="Bunny CDN"/><br>Bunny CDN
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
-<div align="center">
-  
-| Technology | Icon |
-|------------|------|
-| **Next.js 14** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> |
-| **React 18** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> |
-| **TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> |
-| **Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/> |
-| **Drizzle ORM** | <img src="https://svgrepo.com/show/448234/database.svg" width="40"/> |
-| **Xata** | <img src="https://raw.githubusercontent.com/xataio/assets/main/logo/xata-logo.svg" width="40"/> |
-| **Bunny CDN** | <img src="https://seeklogo.com/images/B/bunnycdn-logo-8E50B0F6C0-seeklogo.com.png" width="40"/> |
+## 📦 Installation
 
-</div>
-
----
-
-## 🏁 Getting Started
-
-### **Prerequisites**
-- [Node.js v18+](https://nodejs.org/en/)
-- [pnpm](https://pnpm.io/) (or npm/yarn)
-- [Git](https://git-scm.com/)
-
-### **Installation**
 ```bash
-git clone https://github.com/your-username/capto.git
-cd capto
-pnpm install
-pnpm db:push
-pnpm dev
+git clone https://github.com/YourUsername/YourRepo.git
+cd YourRepo
+npm install
+npm run dev
 ````
 
 ---
 
-## 🤝 Contributing
+## 🌟 Features
 
-Contributions are welcome!
+* ⚡ Fast and optimized performance
+* 🎨 Fully responsive and modern UI
+* 🛠 Easy to customize
+* 📡 Real-time capabilities
 
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
 
----
-
-<div align="center">
-  <h3>Made with ❤️ by Ansh</h3>
-  <a href="https://github.com/your-username">GitHub</a> ·
-  <a href="https://twitter.com/your-username">Twitter</a> ·
-  <a href="https://linkedin.com/in/ansh0">LinkedIn</a>
-</div>
