@@ -1,10 +1,3 @@
-Got it — I’ll make you a **polished, modern, and colorful README** with a prominent, stylish button linking to your site, while keeping your branding clean and professional.
-
-Here’s the upgraded version:
-
----
-
-````markdown
 <h1 align="center">👋 Hi, I'm Ansh</h1>
 
 <div align="center">
@@ -93,13 +86,7 @@ Contributions are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
----
-
-## 📜 License
-
-Distributed under the **MIT License**. See `LICENSE` for details.
-
----
+----
 
 <div align="center">
   <h3>Made with ❤️ by Ansh</h3>
@@ -107,17 +94,3 @@ Distributed under the **MIT License**. See `LICENSE` for details.
   <a href="https://twitter.com/your-username">Twitter</a> ·
   <a href="https://linkedin.com/in/your-username">LinkedIn</a>
 </div>
-```
-
----
-
-This version:
-
-* Uses **clean section dividers** and emojis for quick scanning.
-* Has a **big, clear button** linking to your live site.
-* Keeps **colors consistent** (`0ea5e9` blue brand tone).
-* Makes the **features table modern** and visually appealing.
-* Adds better structure for **easy navigation**.
-
-I can also make a **gradient “View Live” button with HTML-like styling** inside your README so it looks even more premium on GitHub.
-Do you want me to upgrade it with that style next?
