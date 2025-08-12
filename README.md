@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/user-attachments/assets/5a9e3a7a-3b5e-4e4f-8b2a-7c6f1a8c8e8a" alt="Capto Logo" width="120" />
-
 <h1 align="center">Capto</h1>
 
 <p align="center">
@@ -46,13 +44,13 @@ Built with <strong>Next.js</strong>, <strong>Better Auth</strong>, and a whole l
   
 | Technology | Icon |
 |------------|------|
-| **Next.js 14** | <img src="https://raw.githubusercontent.com/user-attachments/assets/b8c6f122-3c8e-461d-a2f0-92868c62c3f8" width="40"/> |
-| **React 18** | <img src="https://raw.githubusercontent.com/user-attachments/assets/f42a9a7d-e6b7-4c4f-9a1d-a3e9c6a9a9b3" width="40"/> |
-| **TypeScript** | <img src="https://raw.githubusercontent.com/user-attachments/assets/e1a2b7e8-5a2e-4b2a-9e8c-8f9d0c6b6b3e" width="40"/> |
-| **Tailwind CSS** | <img src="https://raw.githubusercontent.com/user-attachments/assets/a2b2c3a0-9e8c-4b2a-8f9d-0c6b6b3e8e8c" width="40"/> |
-| **Drizzle ORM** | <img src="https://raw.githubusercontent.com/user-attachments/assets/c3a09e8c-4b2a-8f9d-0c6b6b3e8e8ca2b2" width="40"/> |
-| **Xata** | <img src="https://raw.githubusercontent.com/user-attachments/assets/8f9d0c6b-6b3e-8e8c-a2b2-c3a09e8c4b2a" width="40"/> |
-| **Bunny CDN** | <img src="https://raw.githubusercontent.com/user-attachments/assets/0c6b6b3e-8e8c-a2b2-c3a0-9e8c4b2a8f9d" width="40"/> |
+| **Next.js 14** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> |
+| **React 18** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> |
+| **TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> |
+| **Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/> |
+| **Drizzle ORM** | <img src="https://svgrepo.com/show/448234/database.svg" width="40"/> |
+| **Xata** | <img src="https://raw.githubusercontent.com/xataio/assets/main/logo/xata-logo.svg" width="40"/> |
+| **Bunny CDN** | <img src="https://seeklogo.com/images/B/bunnycdn-logo-8E50B0F6C0-seeklogo.com.png" width="40"/> |
 
 </div>
 
@@ -86,11 +84,11 @@ Contributions are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
-----
+---
 
 <div align="center">
   <h3>Made with ❤️ by Ansh</h3>
   <a href="https://github.com/your-username">GitHub</a> ·
   <a href="https://twitter.com/your-username">Twitter</a> ·
-  <a href="https://linkedin.com/in/your-username">LinkedIn</a>
+  <a href="https://linkedin.com/in/ansh0">LinkedIn</a>
 </div>
