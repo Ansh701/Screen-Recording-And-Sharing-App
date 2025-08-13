@@ -1,8 +1,8 @@
 <div align="center">
   <!-- Custom Logo -->
-  <img src="public/assets/icons/logo.svg" alt="Capto Logo" width="120" />
+  <img src="public/assets/icons/logo.svg" alt="SnapCast Logo" width="120" />
 
-  <h1 align="center">Capto</h1>
+  <h1 align="center">SnapCast</h1>
   <p align="center">
     <em>Effortless Screen Recording & Instant Sharing.</em><br />
     Built with Next.js, Better Auth, Bunny CDN, and a whole lot of love.
